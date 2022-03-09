@@ -1,6 +1,8 @@
 A web chat app created using react js, socket-io, express and node js, for creating the ui no external library was used the ui is made using pure css
 the app is fully responsive
 
+link to the live web app - https://niteshkandari.github.io/socketio-chat-app-fe/ 
+
 snapshots of the app
 ![ch1](https://user-images.githubusercontent.com/74185121/157091433-7a4a3277-570a-4977-9feb-7f94889d401a.png)
 ![ch2](https://user-images.githubusercontent.com/74185121/157091447-d5a88126-55c5-4005-8b00-55de5f35e400.png)
